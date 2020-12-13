@@ -1,6 +1,7 @@
 A newspaper company has given their ratings for putting up ads in three cities, Paris, Quebec, and Rio. 
 
 The following needs to be done: 
+
 1.) Compare the ad rates across the cities
 
 2.) Figure out the cost of displaying ads on every day of the week in all three cities
