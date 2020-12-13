@@ -1,4 +1,4 @@
-A newspaper company has given their ratings for putting up ads in three cities, Paris, Quebec, and Rio.
+A newspaper company has given their rates for putting up ads in three cities, Paris, Quebec, and Rio.
 
 The following needs to be done:
 
