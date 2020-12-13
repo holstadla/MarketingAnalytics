@@ -2,5 +2,7 @@ A newspaper company has given their ratings for putting up ads in three cities, 
 
 The following needs to be done: 
 1.) Compare the ad rates across the cities
+
 2.) Figure out the cost of displaying ads on every day of the week in all three cities
+
 3.) The mean ad prices for each day in the three cities
