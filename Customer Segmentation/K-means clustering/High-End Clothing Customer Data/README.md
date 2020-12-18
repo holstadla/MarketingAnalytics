@@ -3,7 +3,7 @@
  A high-end clothing company has collected customer data, including age, income, annual spend at the store, and number of days since their last purchase. The company wants to start target marketing campaigns, but doesn't know how many different types of customers they have or who they really are. Therefore, the company wants the customer population segmented based on the data gathered and wants to know how many customre clusters there are and what group each customer falls into. 
  
  #### Methodology
- I did the following in Python: standardized the data, visualized the data, used the elbow method with the sum of squared errors to determine the optimal number of clusters, performed k-means cluster analysis, and then analyzed the clusters to determine their characteristics. 
+ I did the following in Python: standardized the data, visualized the data, used the elbow method with the sum of squared errors to determine the optimal number of clusters, performed k-means cluster analysis, and then analyzed the clusters to determine their characteristics. I then used Excel PivotTables and Tableau to analyze and visualize the clusters.
  
  #### Findings
  
