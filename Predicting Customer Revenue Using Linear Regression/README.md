@@ -23,3 +23,21 @@ Predict 2011 revenue of a customer with the following data:
 - number of days since last purchase = 20
 - number of purchases = 2
 - average order cost = $50
+
+## Building a Regression Model to Predict Storefront Location Revenue
+
+#### About the Data
+Provided the data on a store's revenue as well as important factors regarding the surrounding area at various locations, including number of competitors, median income, number of loyalty members, population density, and location age. 
+
+Goal: build a regression model to predict storefront location revenue based on information about the area the storefront is located in. 
+
+The model should be able to: 
+1. describe the relationship between revenue and factors related to the storefront's location 
+2. predict the revenue of a store based on its location and age
+
+Predict the revenue of a location with the following data: 
+- location has 3 competitors
+- median income of $30,000
+- 1,200 loyalty members
+- population density of 2,000
+- location age of 10
