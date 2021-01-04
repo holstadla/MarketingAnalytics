@@ -15,7 +15,7 @@ A multinational bank wants to increase its market share in Europe. They've recen
 - interpret the data
 
 #### Findings: 
-- 20.37% of customers churned
+20.37% of customers churned
 
 Those that churned have the following characteristics: 
 - higher credit score, average 645.35
